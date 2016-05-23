@@ -355,13 +355,14 @@ public class TexassPokerRoomAdapter extends BaseTurnRoomAdaptor implements
 		}
 		gameManager.getPlayersManager().removeAllPlayers();
 		gameManager.initGameRounds();
+		GAME_STATUS = STOPPED;
 		for (IUser user : gameRoom.getJoinedUsers()) {
 			addNewPlayerCards(user.getName());
 		}
 		sendDefaultCards(null, true);
 		broadcastPlayerCardsInfo();
 		broadcastBlindPlayerDatas();
-		GAME_STATUS = STOPPED;
+		
 //		System.out.println("Game Status : " + GAME_STATUS);
 	}
 

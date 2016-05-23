@@ -29486,3 +29486,37 @@ Closing session (0x00000007: nio socket, server, /192.168.1.200:56307 => /192.16
 2016-05-21 15:16:25,013 - WARNING: Failed to resume session635994207854216270
 2016-05-21 15:18:58,773 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
 2016-05-21 15:18:58,779 - WARNING: Running with 500 CCU limit
+2016-05-21 15:37:53,619 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2016-05-21 15:37:53,623 - WARNING: Running with 500 CCU limit
+2016-05-21 15:37:56,982 - WARNING: Failed to resume session635994219987255616
+2016-05-21 15:37:57,079 - WARNING: Failed to resume session635994219949501841
+2016-05-21 15:37:57,528 - WARNING: Failed to resume session635994220053602250
+2016-05-21 15:37:58,693 - WARNING: Failed to resume session635994220023539244
+2016-05-21 15:42:33,734 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2016-05-21 15:42:33,738 - WARNING: Running with 500 CCU limit
+2016-05-21 16:02:37,478 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2016-05-21 16:02:37,488 - WARNING: Running with 500 CCU limit
+2016-05-21 16:04:05,279 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2016-05-21 16:04:05,279 - WARNING: Running with 500 CCU limit
+2016-05-21 16:05:58,023 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2016-05-21 16:05:58,023 - WARNING: Running with 500 CCU limit
+2016-05-21 16:29:52,207 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2016-05-21 16:29:52,211 - WARNING: Running with 500 CCU limit
+2016-05-21 16:29:58,266 - WARNING: Failed to resume session635994252494317590
+2016-05-21 16:29:59,034 - WARNING: Failed to resume session635994252217383080
+2016-05-21 16:29:59,951 - WARNING: Failed to resume session635994252798009430
+2016-05-21 16:30:40,796 - ERROR: Session Id expected 1165609370
+2016-05-21 16:30:41,222 - ERROR: Session Id expected 1165609370
+2016-05-21 16:31:19,792 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2016-05-21 16:31:19,796 - WARNING: Running with 500 CCU limit
+2016-05-21 16:31:21,735 - WARNING: Failed to resume session635994253150936370
+2016-05-21 16:31:22,401 - WARNING: Failed to resume session635994253421285200
+2016-05-21 16:31:24,352 - WARNING: Failed to resume session635994253151822770
+2016-05-23 11:14:43,502 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2016-05-23 11:14:43,509 - WARNING: Running with 500 CCU limit
+2016-05-23 12:34:14,046 - WARNING: Failed to resume session635995838454672106
+2016-05-23 12:35:08,758 - WARNING: Failed to resume session635995838161053802
+2016-05-23 12:35:08,898 - WARNING: Failed to resume session635995839005506757
+2016-05-23 12:40:28,142 - WARNING: Failed to resume session635995842197379040
+2016-05-23 12:52:30,892 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2016-05-23 12:52:30,895 - WARNING: Running with 500 CCU limit
