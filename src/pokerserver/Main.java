@@ -17,7 +17,7 @@ public class Main implements GameConstants {
 	public static void main(String[] args) throws Exception {
 			String appconfigPath = System.getProperty("user.dir")
 				+ System.getProperty("file.separator") + "AppConfig.json";
-//		System.out.print("AppConfig : " + appconfigPath);
+		System.out.print("AppConfig : " + appconfigPath);
 		boolean started = AppWarpServer.start(new PokerServerExtension(),
 				appconfigPath);
 		if (!started) {
