@@ -351,55 +351,31 @@
 2016-05-26 16:03:53,167 - WARNING: exceptionCaught cause null remote /192.168.1.129:62144
 2016-05-26 16:03:54,057 - WARNING: got out of turn request
 2016-05-26 16:05:21,127 - WARNING: exceptionCaught cause null remote /192.168.1.129:62262
-2016-05-26 16:51:09,558 - WARNING: Room Created: id= 733389650
-2016-05-26 16:51:58,371 - WARNING: got out of turn request
-2016-05-26 16:51:58,992 - WARNING: got out of turn request
-2016-05-26 16:53:34,222 - WARNING: already stopped
-2016-05-26 16:53:34,222 - WARNING: exceptionCaught cause null remote /192.168.1.129:49326
-2016-05-26 16:53:44,316 - ERROR: Error in handleRequest java.util.ConcurrentModificationException
-2016-05-26 16:55:04,120 - WARNING: got out of turn request
-2016-05-26 16:55:07,140 - WARNING: already stopped
-2016-05-26 16:55:07,140 - WARNING: got out of turn request
-2016-05-26 16:55:07,140 - WARNING: exceptionCaught cause null remote /192.168.1.129:49396
-2016-05-26 16:55:30,296 - WARNING: got out of turn request
-2016-05-26 16:55:49,068 - WARNING: got out of turn request
-2016-05-26 16:55:54,760 - WARNING: got out of turn request
-2016-05-26 16:57:01,716 - WARNING: got out of turn request
-2016-05-26 16:57:03,070 - WARNING: got out of turn request
-2016-05-26 17:05:31,099 - WARNING: got out of turn request
-2016-05-26 17:05:41,051 - WARNING: got out of turn request
-2016-05-26 17:05:41,101 - WARNING: got out of turn request
-2016-05-26 17:06:38,897 - WARNING: got out of turn request
-2016-05-26 17:07:41,743 - WARNING: got out of turn request
-2016-05-26 17:08:07,095 - WARNING: got out of turn request
-2016-05-26 17:08:17,735 - WARNING: got out of turn request
-2016-05-26 17:08:21,299 - WARNING: got out of turn request
-2016-05-26 17:08:21,670 - WARNING: got out of turn request
-2016-05-26 17:10:40,933 - WARNING: Room Created: id= 408051588
-2016-05-26 17:11:25,388 - WARNING: got out of turn request
-2016-05-26 17:11:28,485 - WARNING: already stopped
-2016-05-26 17:13:04,273 - WARNING: Room Created: id= 2023438501
-2016-05-26 17:13:39,160 - WARNING: got out of turn request
-2016-05-26 17:14:29,686 - WARNING: got out of turn request
-2016-05-26 17:16:33,808 - WARNING: Room Created: id= 2093239965
-2016-05-26 17:17:27,618 - WARNING: got out of turn request
-2016-05-26 17:17:28,333 - WARNING: got out of turn request
-2016-05-26 17:19:23,188 - WARNING: got out of turn request
-2016-05-26 17:19:24,232 - WARNING: got out of turn request
-2016-05-26 17:21:19,667 - WARNING: got out of turn request
-2016-05-26 17:21:22,483 - WARNING: got out of turn request
-2016-05-26 17:22:10,042 - WARNING: got out of turn request
-2016-05-26 17:23:57,091 - WARNING: got out of turn request
-2016-05-26 17:24:39,009 - WARNING: got out of turn request
-2016-05-26 17:24:39,526 - WARNING: exceptionCaught cause An existing connection was forcibly closed by the remote host remote /192.168.1.129:51599
-2016-05-26 17:25:13,495 - WARNING: exceptionCaught cause null remote /192.168.1.129:51651
-2016-05-26 17:26:39,200 - WARNING: Room Created: id= 1706046556
-2016-05-26 17:26:39,220 - WARNING: Room Created: id= 1438913302
-2016-05-26 17:26:46,481 - WARNING: got out of turn request
-2016-05-26 17:27:09,038 - WARNING: closing idle session /192.168.1.129:51776
-2016-05-26 17:27:26,113 - WARNING: closing idle session /192.168.1.129:51793
-2016-05-26 17:28:05,493 - WARNING: exceptionCaught cause An existing connection was forcibly closed by the remote host remote /192.168.1.129:51862
-2016-05-26 17:30:20,500 - WARNING: exceptionCaught cause An existing connection was forcibly closed by the remote host remote /192.168.1.129:51901
-2016-05-26 17:30:31,908 - WARNING: closing idle session /192.168.1.129:51927
-2016-05-26 17:31:00,670 - WARNING: got out of turn request
-2016-05-26 17:31:00,674 - WARNING: exceptionCaught cause null remote /192.168.1.129:52055
+2016-05-26 16:06:12,280 - WARNING: already stopped
+2016-05-26 16:06:12,280 - WARNING: exceptionCaught cause null remote /192.168.1.129:62324
+2016-05-26 16:07:52,961 - WARNING: exceptionCaught cause null remote /192.168.1.129:62436
+2016-05-26 16:09:21,829 - WARNING: exceptionCaught cause null remote /192.168.1.129:62557
+2016-05-26 16:12:35,811 - WARNING: exceptionCaught cause null remote /192.168.1.129:62776
+2016-05-26 16:14:57,795 - WARNING: got out of turn request
+2016-05-26 16:16:25,793 - WARNING: exceptionCaught cause null remote /192.168.1.129:63047
+2016-05-26 16:16:28,639 - WARNING: got out of turn request
+2016-05-26 16:17:31,912 - WARNING: exceptionCaught cause null remote /192.168.1.129:63145
+2016-05-26 16:17:33,059 - WARNING: got out of turn request
+2016-05-26 16:18:24,119 - WARNING: Room Created: id= 969024070
+2016-05-26 16:18:38,265 - WARNING: got out of turn request
+2016-05-26 16:27:01,345 - WARNING: got out of turn request
+2016-05-26 16:30:49,154 - WARNING: got out of turn request
+2016-05-26 16:34:00,712 - WARNING: got out of turn request
+2016-05-26 16:35:02,363 - WARNING: got out of turn request
+2016-05-26 16:35:13,237 - WARNING: got out of turn request
+2016-05-26 16:40:38,165 - WARNING: got out of turn request
+2016-05-26 16:41:40,266 - WARNING: got out of turn request
+2016-05-26 16:42:10,204 - WARNING: got out of turn request
+2016-05-26 16:43:25,721 - WARNING: closing idle session /192.168.1.129:64931
+2016-05-26 16:43:30,375 - WARNING: got out of turn request
+2016-05-26 16:44:12,691 - WARNING: got out of turn request
+2016-05-26 16:46:46,992 - WARNING: got out of turn request
+2016-05-26 16:48:43,525 - WARNING: closing idle session /192.168.1.129:65373
+2016-05-26 16:49:19,230 - WARNING: got out of turn request
+2016-05-26 16:49:53,625 - WARNING: got out of turn request
+2016-05-26 16:49:54,427 - WARNING: got out of turn request
