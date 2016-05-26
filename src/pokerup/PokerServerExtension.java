@@ -24,10 +24,8 @@ AppKey : 3689654b-d64f-421e-8
     @Override
     public void onZoneCreated(IZone zone)
     {             
-//    	System.out.println();
-//    	System.out.print("Poker Server Extension : "+zone.getName());
-    	if(zone.getAppKey().equals(TAXESS_POKERUP)|| zone.getAppKey().equals(TAXESS_POKERUP_LIVE)){
-    		zone.setAdaptor(new TexassPokerZoneExtension(zone));
-    	}
+//    	if(zone.getAppKey().equals(TAXESS_POKERUP)|| zone.getAppKey().equals(TAXESS_POKERUP_LIVE)){
+//    	}
+    	zone.setAdaptor(new TexassPokerZoneExtension(zone));
     }
 }

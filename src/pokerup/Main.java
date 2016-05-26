@@ -45,7 +45,7 @@ public class Main implements GameConstants {
 		} else {
 			LogUtils.Log("Main : Server Started ");
 		}
-		changeGameStatusOnServer(278);
+//		changeGameStatusOnServer(278);
 	}
 	//278
 	public static void changeGameStatusOnServer(int gameID){
