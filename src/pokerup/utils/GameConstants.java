@@ -74,7 +74,7 @@ public interface GameConstants {
 	public int INDEX_THIRD_FLOP_2 = 5;
 	
 	
-	String TEXASS_SERVER_NAME = "TexassAppWarpS2";
+	String TEXASS_SERVER_NAME = "PokerUPServer";
 	String WA_SERVER_NAME = "WAAppWarpS2";
 
 	public static final byte MAX_CARD = 52;
