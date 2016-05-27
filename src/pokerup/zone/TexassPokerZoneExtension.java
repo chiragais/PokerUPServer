@@ -54,7 +54,7 @@ public class TexassPokerZoneExtension extends BaseZoneAdaptor {
 		}
 		TexassPokerRoomAdapter extension = (TexassPokerRoomAdapter) user.getLocation()
 				.getAdaptor();
-		extension.onUserPaused(user);
+//		extension.onUserPaused(user);
 	}
 
 	/*
@@ -69,7 +69,7 @@ public class TexassPokerZoneExtension extends BaseZoneAdaptor {
 		}
 		TexassPokerRoomAdapter extension = (TexassPokerRoomAdapter) user.getLocation()
 				.getAdaptor();
-		extension.onUserResume(user);
+//		extension.onUserResume(user);
 	}
 
 }

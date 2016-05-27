@@ -381,3 +381,8 @@
 2016-05-26 16:49:54,427 - WARNING: got out of turn request
 2016-05-26 18:29:11,333 - WARNING: Room Created: id= 1401478521
 2016-05-26 18:29:14,310 - WARNING: got out of turn request
+2016-05-27 09:16:14,796 - WARNING: Room Created: id= 1053034530
+2016-05-27 09:56:53,174 - WARNING: closing idle session /192.168.1.129:53917
+2016-05-27 10:07:10,600 - WARNING: closing idle session /192.168.1.129:54851
+2016-05-27 10:18:36,371 - WARNING: Room Created: id= 1932464896
+2016-05-27 10:19:21,313 - WARNING: closing idle session /192.168.1.129:55836
