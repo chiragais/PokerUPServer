@@ -1,9 +1,0 @@
-2016-05-31 14:44:01,055 - WARNING: Room Created: id= 1429022962
-2016-05-31 14:44:01,063 - ERROR: Error in getLockProperties java.lang.NullPointerException
-2016-05-31 14:47:28,001 - ERROR: Error in getLockProperties java.lang.NullPointerException
-2016-05-31 14:52:55,721 - WARNING: Room Created: id= 581913648
-2016-05-31 14:52:55,731 - ERROR: Error in getLockProperties java.lang.NullPointerException
-2016-05-31 14:55:02,251 - WARNING: Room Created: id= 284399852
-2016-05-31 14:55:02,261 - ERROR: Error in getLockProperties java.lang.NullPointerException
-2016-05-31 14:57:10,694 - WARNING: Room Created: id= 1130995823
-2016-05-31 14:57:10,714 - ERROR: Error in getLockProperties java.lang.NullPointerException
