@@ -1,0 +1,88 @@
+2016-05-31 13:56:39,422 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2016-05-31 13:56:39,426 - WARNING: Running with 500 CCU limit
+2016-05-31 13:56:39,969 - ERROR: Error in getAllZonesFromHSQLDB java.sql.SQLSyntaxErrorException: user lacks privilege or object not found: SERVICE
+2016-05-31 13:56:40,195 - ERROR: Error in starting TCP server java.net.BindException: Address already in use: bind
+2016-05-31 13:56:40,266 - ERROR: Error in starting FlashPolicyServer java.net.BindException: Address already in use: bind
+2016-05-31 13:58:42,540 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2016-05-31 13:58:42,544 - WARNING: Running with 500 CCU limit
+2016-05-31 13:58:53,087 - ERROR: Error in getStatement java.sql.SQLException: Database lock acquisition failure: lockFile: org.hsqldb.persist.LockFile@e6b3d338[file =D:\Android_Client_Projects\PokerUpGame\Demo\AppWarpS2ServerCode\HSQLDBFile.lck, exists=true, locked=false, valid=false, ] method: checkHeartbeat read: 2016-05-31 08:28:52 heartbeat - read: -2331 ms.
+2016-05-31 13:58:53,088 - ERROR: Error in getAllZonesFromHSQLDB java.lang.NullPointerException
+2016-05-31 13:58:53,329 - ERROR: Error in starting TCP server java.net.BindException: Address already in use: bind
+2016-05-31 13:58:53,386 - ERROR: Error in starting FlashPolicyServer java.net.BindException: Address already in use: bind
+2016-05-31 13:59:29,189 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2016-05-31 13:59:29,193 - WARNING: Running with 500 CCU limit
+2016-05-31 13:59:39,728 - ERROR: Error in getStatement java.sql.SQLException: Database lock acquisition failure: lockFile: org.hsqldb.persist.LockFile@e6b3d338[file =D:\Android_Client_Projects\PokerUpGame\Demo\AppWarpS2ServerCode\HSQLDBFile.lck, exists=true, locked=false, valid=false, ] method: checkHeartbeat read: 2016-05-31 08:29:38 heartbeat - read: -8974 ms.
+2016-05-31 13:59:39,729 - ERROR: Error in getAllZonesFromHSQLDB java.lang.NullPointerException
+2016-05-31 13:59:39,985 - ERROR: Error in starting TCP server java.net.BindException: Address already in use: bind
+2016-05-31 13:59:40,043 - ERROR: Error in starting FlashPolicyServer java.net.BindException: Address already in use: bind
+2016-05-31 13:59:50,314 - ERROR: Error in getStatement java.sql.SQLException: Database lock acquisition failure: lockFile: org.hsqldb.persist.LockFile@e6b3d338[file =D:\Android_Client_Projects\PokerUpGame\Demo\AppWarpS2ServerCode\HSQLDBFile.lck, exists=true, locked=false, valid=false, ] method: checkHeartbeat read: 2016-05-31 08:29:49 heartbeat - read: -9544 ms.
+2016-05-31 13:59:50,315 - WARNING: Error in createHSQLServiceTable java.lang.NullPointerException
+2016-05-31 14:00:56,505 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2016-05-31 14:00:56,509 - WARNING: Running with 500 CCU limit
+2016-05-31 14:01:07,035 - ERROR: Error in getStatement java.sql.SQLException: Database lock acquisition failure: lockFile: org.hsqldb.persist.LockFile@e6b3d338[file =D:\Android_Client_Projects\PokerUpGame\Demo\AppWarpS2ServerCode\HSQLDBFile.lck, exists=true, locked=false, valid=false, ] method: checkHeartbeat read: 2016-05-31 08:31:06 heartbeat - read: -6286 ms.
+2016-05-31 14:01:07,035 - ERROR: Error in getAllZonesFromHSQLDB java.lang.NullPointerException
+2016-05-31 14:01:07,275 - ERROR: Error in starting TCP server java.net.BindException: Address already in use: bind
+2016-05-31 14:01:07,332 - ERROR: Error in starting FlashPolicyServer java.net.BindException: Address already in use: bind
+2016-05-31 14:01:17,601 - ERROR: Error in getStatement java.sql.SQLException: Database lock acquisition failure: lockFile: org.hsqldb.persist.LockFile@e6b3d338[file =D:\Android_Client_Projects\PokerUpGame\Demo\AppWarpS2ServerCode\HSQLDBFile.lck, exists=true, locked=false, valid=false, ] method: checkHeartbeat read: 2016-05-31 08:31:16 heartbeat - read: -6859 ms.
+2016-05-31 14:01:17,602 - WARNING: Error in createHSQLServiceTable java.lang.NullPointerException
+2016-05-31 14:01:27,895 - ERROR: Error in getStatement java.sql.SQLException: Database lock acquisition failure: lockFile: org.hsqldb.persist.LockFile@e6b3d338[file =D:\Android_Client_Projects\PokerUpGame\Demo\AppWarpS2ServerCode\HSQLDBFile.lck, exists=true, locked=false, valid=false, ] method: checkHeartbeat read: 2016-05-31 08:31:26 heartbeat - read: -7152 ms.
+2016-05-31 14:01:27,896 - WARNING: Error in createHSQLMteringTable java.lang.NullPointerException
+2016-05-31 14:01:38,170 - ERROR: Error in getStatement java.sql.SQLException: Database lock acquisition failure: lockFile: org.hsqldb.persist.LockFile@e6b3d338[file =D:\Android_Client_Projects\PokerUpGame\Demo\AppWarpS2ServerCode\HSQLDBFile.lck, exists=true, locked=false, valid=false, ] method: checkHeartbeat read: 2016-05-31 08:31:37 heartbeat - read: -7427 ms.
+2016-05-31 14:01:38,171 - WARNING: Error in createHSQLRoomTable java.lang.NullPointerException
+2016-05-31 14:04:37,356 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2016-05-31 14:04:37,361 - WARNING: Running with 500 CCU limit
+2016-05-31 14:04:47,997 - ERROR: Error in getStatement java.sql.SQLException: Database lock acquisition failure: lockFile: org.hsqldb.persist.LockFile@e6b3d338[file =D:\Android_Client_Projects\PokerUpGame\Demo\AppWarpS2ServerCode\HSQLDBFile.lck, exists=true, locked=false, valid=false, ] method: checkHeartbeat read: 2016-05-31 08:34:46 heartbeat - read: -7252 ms.
+2016-05-31 14:04:47,998 - ERROR: Error in getAllZonesFromHSQLDB java.lang.NullPointerException
+2016-05-31 14:04:48,312 - ERROR: Error in starting TCP server java.net.BindException: Address already in use: bind
+2016-05-31 14:04:48,385 - ERROR: Error in starting FlashPolicyServer java.net.BindException: Address already in use: bind
+2016-05-31 14:04:58,660 - ERROR: Error in getStatement java.sql.SQLException: Database lock acquisition failure: lockFile: org.hsqldb.persist.LockFile@e6b3d338[file =D:\Android_Client_Projects\PokerUpGame\Demo\AppWarpS2ServerCode\HSQLDBFile.lck, exists=true, locked=false, valid=false, ] method: checkHeartbeat read: 2016-05-31 08:34:57 heartbeat - read: -7918 ms.
+2016-05-31 14:04:58,660 - WARNING: Error in createHSQLServiceTable java.lang.NullPointerException
+2016-05-31 14:05:08,920 - ERROR: Error in getStatement java.sql.SQLException: Database lock acquisition failure: lockFile: org.hsqldb.persist.LockFile@e6b3d338[file =D:\Android_Client_Projects\PokerUpGame\Demo\AppWarpS2ServerCode\HSQLDBFile.lck, exists=true, locked=false, valid=false, ] method: checkHeartbeat read: 2016-05-31 08:35:07 heartbeat - read: -8178 ms.
+2016-05-31 14:05:08,921 - WARNING: Error in createHSQLMteringTable java.lang.NullPointerException
+2016-05-31 14:05:19,177 - ERROR: Error in getStatement java.sql.SQLException: Database lock acquisition failure: lockFile: org.hsqldb.persist.LockFile@e6b3d338[file =D:\Android_Client_Projects\PokerUpGame\Demo\AppWarpS2ServerCode\HSQLDBFile.lck, exists=true, locked=false, valid=false, ] method: checkHeartbeat read: 2016-05-31 08:35:18 heartbeat - read: -8434 ms.
+2016-05-31 14:05:19,177 - WARNING: Error in createHSQLRoomTable java.lang.NullPointerException
+2016-05-31 14:08:56,989 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2016-05-31 14:08:56,989 - WARNING: Running with 500 CCU limit
+2016-05-31 14:09:07,648 - ERROR: Error in getStatement java.sql.SQLException: Database lock acquisition failure: lockFile: org.hsqldb.persist.LockFile@e6b3d338[file =D:\Android_Client_Projects\PokerUpGame\Demo\AppWarpS2ServerCode\HSQLDBFile.lck, exists=true, locked=false, valid=false, ] method: checkHeartbeat read: 2016-05-31 08:39:06 heartbeat - read: -6905 ms.
+2016-05-31 14:09:07,648 - ERROR: Error in getAllZonesFromHSQLDB java.lang.NullPointerException
+2016-05-31 14:09:07,958 - ERROR: Error in starting TCP server java.net.BindException: Address already in use: bind
+2016-05-31 14:09:08,018 - ERROR: Error in starting FlashPolicyServer java.net.BindException: Address already in use: bind
+2016-05-31 14:09:18,348 - ERROR: Error in getStatement java.sql.SQLException: Database lock acquisition failure: lockFile: org.hsqldb.persist.LockFile@e6b3d338[file =D:\Android_Client_Projects\PokerUpGame\Demo\AppWarpS2ServerCode\HSQLDBFile.lck, exists=true, locked=false, valid=false, ] method: checkHeartbeat read: 2016-05-31 08:39:17 heartbeat - read: -7591 ms.
+2016-05-31 14:09:18,348 - WARNING: Error in createHSQLServiceTable java.lang.NullPointerException
+2016-05-31 14:09:28,673 - ERROR: Error in getStatement java.sql.SQLException: Database lock acquisition failure: lockFile: org.hsqldb.persist.LockFile@e6b3d338[file =D:\Android_Client_Projects\PokerUpGame\Demo\AppWarpS2ServerCode\HSQLDBFile.lck, exists=true, locked=false, valid=false, ] method: checkHeartbeat read: 2016-05-31 08:39:27 heartbeat - read: -7922 ms.
+2016-05-31 14:09:28,673 - WARNING: Error in createHSQLMteringTable java.lang.NullPointerException
+2016-05-31 14:09:38,964 - ERROR: Error in getStatement java.sql.SQLException: Database lock acquisition failure: lockFile: org.hsqldb.persist.LockFile@e6b3d338[file =D:\Android_Client_Projects\PokerUpGame\Demo\AppWarpS2ServerCode\HSQLDBFile.lck, exists=true, locked=false, valid=false, ] method: checkHeartbeat read: 2016-05-31 08:39:37 heartbeat - read: -8208 ms.
+2016-05-31 14:09:38,964 - WARNING: Error in createHSQLRoomTable java.lang.NullPointerException
+2016-05-31 14:23:41,766 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2016-05-31 14:23:41,770 - WARNING: Running with 500 CCU limit
+2016-05-31 14:23:52,311 - ERROR: Error in getStatement java.sql.SQLException: Database lock acquisition failure: lockFile: org.hsqldb.persist.LockFile@e6b3d338[file =D:\Android_Client_Projects\PokerUpGame\Demo\AppWarpS2ServerCode\HSQLDBFile.lck, exists=true, locked=false, valid=false, ] method: checkHeartbeat read: 2016-05-31 08:53:51 heartbeat - read: -1544 ms.
+2016-05-31 14:23:52,312 - ERROR: Error in getAllZonesFromHSQLDB java.lang.NullPointerException
+2016-05-31 14:23:52,568 - ERROR: Error in starting TCP server java.net.BindException: Address already in use: bind
+2016-05-31 14:23:52,629 - ERROR: Error in starting FlashPolicyServer java.net.BindException: Address already in use: bind
+2016-05-31 14:24:02,934 - ERROR: Error in getStatement java.sql.SQLException: Database lock acquisition failure: lockFile: org.hsqldb.persist.LockFile@e6b3d338[file =D:\Android_Client_Projects\PokerUpGame\Demo\AppWarpS2ServerCode\HSQLDBFile.lck, exists=true, locked=false, valid=false, ] method: checkHeartbeat read: 2016-05-31 08:54:01 heartbeat - read: -2189 ms.
+2016-05-31 14:24:02,934 - WARNING: Error in createHSQLServiceTable java.lang.NullPointerException
+2016-05-31 14:24:13,204 - ERROR: Error in getStatement java.sql.SQLException: Database lock acquisition failure: lockFile: org.hsqldb.persist.LockFile@e6b3d338[file =D:\Android_Client_Projects\PokerUpGame\Demo\AppWarpS2ServerCode\HSQLDBFile.lck, exists=true, locked=false, valid=false, ] method: checkHeartbeat read: 2016-05-31 08:54:12 heartbeat - read: -2460 ms.
+2016-05-31 14:24:13,205 - WARNING: Error in createHSQLMteringTable java.lang.NullPointerException
+2016-05-31 14:24:23,519 - ERROR: Error in getStatement java.sql.SQLException: Database lock acquisition failure: lockFile: org.hsqldb.persist.LockFile@e6b3d338[file =D:\Android_Client_Projects\PokerUpGame\Demo\AppWarpS2ServerCode\HSQLDBFile.lck, exists=true, locked=false, valid=false, ] method: checkHeartbeat read: 2016-05-31 08:54:22 heartbeat - read: -2776 ms.
+2016-05-31 14:24:23,519 - WARNING: Error in createHSQLRoomTable java.lang.NullPointerException
+2016-05-31 14:25:14,634 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2016-05-31 14:25:14,638 - WARNING: Running with 500 CCU limit
+2016-05-31 14:25:25,186 - ERROR: Error in getStatement java.sql.SQLException: Database lock acquisition failure: lockFile: org.hsqldb.persist.LockFile@e6b3d338[file =D:\Android_Client_Projects\PokerUpGame\Demo\AppWarpS2ServerCode\HSQLDBFile.lck, exists=true, locked=false, valid=false, ] method: checkHeartbeat read: 2016-05-31 08:55:24 heartbeat - read: -4423 ms.
+2016-05-31 14:25:25,186 - ERROR: Error in getAllZonesFromHSQLDB java.lang.NullPointerException
+2016-05-31 14:25:25,439 - ERROR: Error in starting TCP server java.net.BindException: Address already in use: bind
+2016-05-31 14:25:25,497 - ERROR: Error in starting FlashPolicyServer java.net.BindException: Address already in use: bind
+2016-05-31 14:25:35,761 - ERROR: Error in getStatement java.sql.SQLException: Database lock acquisition failure: lockFile: org.hsqldb.persist.LockFile@e6b3d338[file =D:\Android_Client_Projects\PokerUpGame\Demo\AppWarpS2ServerCode\HSQLDBFile.lck, exists=true, locked=false, valid=false, ] method: checkHeartbeat read: 2016-05-31 08:55:34 heartbeat - read: -5018 ms.
+2016-05-31 14:25:35,762 - WARNING: Error in createHSQLServiceTable java.lang.NullPointerException
+2016-05-31 14:25:46,081 - ERROR: Error in getStatement java.sql.SQLException: Database lock acquisition failure: lockFile: org.hsqldb.persist.LockFile@e6b3d338[file =D:\Android_Client_Projects\PokerUpGame\Demo\AppWarpS2ServerCode\HSQLDBFile.lck, exists=true, locked=false, valid=false, ] method: checkHeartbeat read: 2016-05-31 08:55:45 heartbeat - read: -5336 ms.
+2016-05-31 14:25:46,082 - WARNING: Error in createHSQLMteringTable java.lang.NullPointerException
+2016-05-31 14:25:56,374 - ERROR: Error in getStatement java.sql.SQLException: Database lock acquisition failure: lockFile: org.hsqldb.persist.LockFile@e6b3d338[file =D:\Android_Client_Projects\PokerUpGame\Demo\AppWarpS2ServerCode\HSQLDBFile.lck, exists=true, locked=false, valid=false, ] method: checkHeartbeat read: 2016-05-31 08:55:55 heartbeat - read: -5631 ms.
+2016-05-31 14:25:56,375 - WARNING: Error in createHSQLRoomTable java.lang.NullPointerException
+2016-05-31 14:41:56,960 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2016-05-31 14:41:56,960 - WARNING: Running with 500 CCU limit
+2016-05-31 14:51:28,754 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2016-05-31 14:51:28,758 - WARNING: Running with 500 CCU limit
+2016-05-31 14:54:43,920 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2016-05-31 14:54:43,930 - WARNING: Running with 500 CCU limit
+2016-05-31 14:56:48,193 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2016-05-31 14:56:48,193 - WARNING: Running with 500 CCU limit
+2016-05-31 15:11:21,201 - WARNING: Failed Auth. Zone for 9b9fe694-2cc4-475a-a does not exist
