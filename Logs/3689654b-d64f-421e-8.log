@@ -8329,3 +8329,7 @@
 2016-05-23 13:15:05,308 - WARNING: got out of turn request
 2016-05-23 13:17:13,404 - WARNING: got out of turn request
 2016-05-25 14:21:47,054 - WARNING: closing idle session /192.168.1.200:51651
+2016-05-27 10:38:43,334 - WARNING: Room Created: id= 1006026170
+2016-05-27 10:38:43,391 - ERROR: Error in getLockProperties java.lang.NullPointerException
+2016-05-31 11:07:21,826 - WARNING: Room Created: id= 1411305027
+2016-05-31 11:07:21,862 - ERROR: Error in getLockProperties java.lang.NullPointerException

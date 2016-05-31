@@ -29746,3 +29746,23 @@ Closing session (0x00000007: nio socket, server, /192.168.1.200:56307 => /192.16
 2016-05-27 10:17:03,536 - WARNING: Running with 500 CCU limit
 2016-05-27 10:17:22,327 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
 2016-05-27 10:17:22,331 - WARNING: Running with 500 CCU limit
+2016-05-27 10:38:03,712 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2016-05-27 10:38:03,719 - WARNING: Running with 500 CCU limit
+2016-05-27 10:38:10,574 - WARNING: Failed Auth. Zone for 0df39e2e-5f38-4f42-b does not exist
+2016-05-30 11:54:36,646 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2016-05-30 11:54:36,666 - WARNING: Running with 500 CCU limit
+2016-05-30 12:01:44,783 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2016-05-30 12:01:44,788 - WARNING: Running with 500 CCU limit
+2016-05-30 12:03:55,235 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2016-05-30 12:03:55,240 - WARNING: Running with 500 CCU limit
+2016-05-30 12:07:17,864 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2016-05-30 12:07:17,869 - WARNING: Running with 500 CCU limit
+2016-05-31 11:07:04,830 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2016-05-31 11:07:04,835 - WARNING: Running with 500 CCU limit
+2016-05-31 11:15:07,645 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2016-05-31 11:15:07,648 - WARNING: Running with 500 CCU limit
+2016-05-31 11:15:17,954 - WARNING: Failed to resume session636002698417223769
+2016-05-31 11:15:57,561 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2016-05-31 11:15:57,566 - WARNING: Running with 500 CCU limit
+2016-05-31 11:16:40,448 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2016-05-31 11:16:40,453 - WARNING: Running with 500 CCU limit

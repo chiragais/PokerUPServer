@@ -5,6 +5,7 @@
 package pokerup;
 
 import pokerup.utils.GameConstants;
+import pokerup.utils.LogUtils;
 import pokerup.zone.TexassPokerZoneExtension;
 
 import com.shephertz.app42.server.idomain.BaseServerAdaptor;
@@ -26,6 +27,7 @@ AppKey : 3689654b-d64f-421e-8
     {             
 //    	if(zone.getAppKey().equals(TAXESS_POKERUP)|| zone.getAppKey().equals(TAXESS_POKERUP_LIVE)){
 //    	}
+    	LogUtils.Log("Zone App Key : "+zone.getAppKey());
     	zone.setAdaptor(new TexassPokerZoneExtension(zone));
     }
 }

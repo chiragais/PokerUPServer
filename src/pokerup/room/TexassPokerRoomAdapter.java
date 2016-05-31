@@ -106,9 +106,12 @@ public class TexassPokerRoomAdapter extends BaseTurnRoomAdaptor implements
 	 */
 	public void handleUserJoinRequest(IUser user, HandlingResult result) {
 		LogUtils.Log(">>UserJoinRequest :  User : " + user.getName());
-		// Handle player request
-		gameRoom.BroadcastChat(TEXASS_SERVER_NAME, RESPONSE_FOR_PLAYERS_INFO
-				+ "{\"Player_Status\":1,\"Game_Status\":71,\"Current_Round\":0,\"Card1\":\"eight_club\",\"Card2\":\"six_spade\",\"Player_Position\":1,\"Player_Name\":\"1775\",\"Player_Balance\":1000}");
+		user.SendChatNotification(TEXASS_SERVER_NAME, RESPONSE_FOR_PLAYERS_INFO
+				+ "{\"Player_Status\":1,\"Game_Status\":71,\"Current_Round\":0,\"Card1\":\"eight_club\",\"Card2\":\"six_spade\",\"Player_Position\":1,\"Player_Name\":\"1775\",\"Player_Balance\":1000}", gameRoom);
+		
+//		// Handle player request
+//		gameRoom.BroadcastChat(TEXASS_SERVER_NAME, RESPONSE_FOR_PLAYERS_INFO
+//				+ "{\"Player_Status\":1,\"Game_Status\":71,\"Current_Round\":0,\"Card1\":\"eight_club\",\"Card2\":\"six_spade\",\"Player_Position\":1,\"Player_Name\":\"1775\",\"Player_Balance\":1000}");
 
 	}
 	
