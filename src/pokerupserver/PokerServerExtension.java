@@ -16,7 +16,7 @@ public class PokerServerExtension extends BaseServerAdaptor{
     public void onZoneCreated(IZone zone)
     {             
         System.out.println("Zone Created " + zone.getName());
-        zone.setAdaptor(new ZoneAdapter());
+        zone.setAdaptor(new ZoneAdapter(zone));
         
     }
 

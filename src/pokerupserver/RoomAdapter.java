@@ -20,7 +20,8 @@ public class RoomAdapter extends BaseRoomAdaptor{
     @Override
     public void handleUserJoinRequest(IUser user, HandlingResult result){
         System.out.println("User Joined " + user.getName());
-        m_room.BroadcastChat("PokerUP",user.getName()+ " join in room...");
+        user.SendChatNotification("PokerUP",user.getName()+ " joining in room~~~~~:", m_room);
+        m_room.BroadcastChat("PokerUP",user.getName()+ "  joining in room~~~~~");
     }
     
     /*

@@ -1,4 +1,4 @@
-<project name="pokerupserver" basedir="." default="main">
+<project name="ChatDemo" basedir="." default="main">
 
     <property name="src.dir"     value="src"/>
     <property name="build.dir"   value="build"/>

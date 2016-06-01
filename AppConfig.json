@@ -1,10 +1,10 @@
 {
 	"TickTime" : 500,
 	"ListenPort" : 12346,
+	"MasterHost" : "127.0.0.1",
 	"LogLevel" : "WARN",
 	"FlashPolicyPort" : 8430,
 	"AdminUsername" : "admin",
 	"AdminPassword" : "password",
-	"HSQLDBFile" : "HSQLDBFile",
-	"LICENSE_KEY" : "85103211de9bf8152ab86da89cd4554b7ab4bef1b2c6f81d92ce22945eb549fe"
+	"HSQLDBFile" : "HSQLDBFile"
 }
